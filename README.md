@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vijay Bharvad</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/vijay-bharvad-a44085210/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    This is ME, Vijay Bharvad,  <b>a</b> graduate student from <a href="https://www.acetamritsar.ac.in/"> <b>Illinois Institute of Technology</b>, Chicago</a>. <br>
+    This is ME, Vijay Bharvad,  <b>a</b> graduate student from <a href="https://www.vijaybharvad.netlify.app/"> <b>Illinois Institute of Technology</b>, Chicago</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
