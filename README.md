@@ -22,8 +22,8 @@ I'm a FULL STACK Developer. My experience has provided me with the experience an
 
 ![Visitor Count](https://profile-counter.glitch.me/vijay0772/count.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhib" alt="devmuhib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=" alt="" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhib&show_icons=true&locale=en" alt="devmuhib" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmuhib&" alt="devmuhib" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b&" alt="" /></p>
