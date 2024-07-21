@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijay0772&show_icons=true&theme=dark&title_color=ffd700&text_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="vijay0772" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaygohel109&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vijayo772&theme=highcontrast)](https://git.io/streak-stats)
