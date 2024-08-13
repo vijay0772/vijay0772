@@ -25,5 +25,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijay0772&show_icons=true&theme=dark&title_color=ffd700&text_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="vijay0772" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay0772" alt="vijay0772" /></a> </p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vijay0772&theme=highcontrast)](https://git.io/streak-stats)
 
