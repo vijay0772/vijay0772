@@ -27,7 +27,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay0772" alt="vijay0772" /></a> </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vijay0772&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>
-</p>
+
 
                                                 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vijay0772&theme=highcontrast)](https://git.io/streak-stats)
