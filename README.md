@@ -3,7 +3,7 @@
 
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working as Software Engineer Intern at @NEW EIC
+- 🔭 I’m currently working as Software Engineer Intern at @Find Me
 
 - 🌱 I’m currently learning **React.Js, Azure Cloud,**
 
