@@ -9,36 +9,36 @@
 ---
 
 ## 🌟 Professional Summary
-I am a **detail-oriented Software Engineer** with over 2 years of full-stack experience[cite: 4, 11]. [cite_start]I thrive in agile, startup-style teams where I can own end-to-end product delivery and write clean, testable code[cite: 4, 5].
+I am a **detail-oriented Software Engineer** with over 2 years of full-stack experience. I thrive in agile, startup-style teams where I can own end-to-end product delivery and write clean, testable code.
 
-- 🛠️ **Currently Scaling:** Automating LLM evaluations and building core RESTful APIs at **Halluminate**[cite: 13, 21].
-- 📈 **Impact Driven:** Reduced manual QA time by **90%** and doubled page speeds in past roles[cite: 21, 28].
-- 💡 **Innovation:** 2x Hackathon winner for projects involving AI and real-time threat detection[cite: 40, 44].
+- 🛠️ **Currently Scaling:** Automating LLM evaluations and building core RESTful APIs at **Halluminate**.
+- 📈 **Impact Driven:** Reduced manual QA time by **90%** and doubled page speeds in past roles.
+- 💡 **Innovation:** 2x Hackathon winner for projects involving AI and real-time threat detection.
 
 ---
 
 ## 🛠️ My Tech Stack
 
 ### 🏗️ Backend & Cloud
-- **Languages:** Python 🐍, Java ☕, TypeScript 🟦, Go 🐹, C++[cite: 50].
-- **Frameworks:** Django 🎸, Node.js 🟢, Flask 🌶️, FastAPI ⚡[cite: 51].
-- **Infra:** AWS (Lambda, S3, ECS) ☁️, Docker 🐳, CI/CD Pipelines 🚀, Terraform 🏗️[cite: 51].
+- **Languages:** Python 🐍, Java ☕, TypeScript 🟦, Go 🐹, C++.
+- **Frameworks:** Django 🎸, Node.js 🟢, Flask 🌶️, FastAPI ⚡.
+- **Infra:** AWS (Lambda, S3, ECS) ☁️, Docker 🐳, CI/CD Pipelines 🚀, Terraform 🏗️.
 
 ### 🎨 Frontend & Design
-- **Core:** React.js ⚛️, Next.js ⚡, Tailwind CSS 🌊[cite: 51].
-- **Mobile:** Flutter 💙, Dart 🎯[cite: 44].
-- **State/Data:** GraphQL 🕸️, Redux 🟣, PostHog Analytics 🦔[cite: 23, 51].
+- **Core:** React.js ⚛️, Next.js ⚡, Tailwind CSS 🌊.
+- **Mobile:** Flutter 💙, Dart 🎯.
+- **State/Data:** GraphQL 🕸️, Redux 🟣, PostHog Analytics 🦔.
 
 ### 🗄️ Databases
-- **SQL:** PostgreSQL 🐘, MySQL 🐬, SQL Server 🖥️[cite: 51].
-- **NoSQL:** MongoDB 🍃, Redis 🔴, Firebase 🔥[cite: 51].
+- **SQL:** PostgreSQL 🐘, MySQL 🐬, SQL Server 🖥️.
+- **NoSQL:** MongoDB 🍃, Redis 🔴, Firebase 🔥.
 
 ---
 
 ## 🏆 Key Achievements & Impact
-- 🤖 **LLM Automation:** Engineered Python-based evaluation tools that cut QA overhead by **90%**[cite: 21].
-- 🚀 **Performance:** Optimized API load times by **50%** and built infrastructure for **5k+ users**[cite: 22, 28].
-- 👥 **Growth:** Designed UI components that led to a **25% increase** in user engagement[cite: 30].
+- 🤖 **LLM Automation:** Engineered Python-based evaluation tools that cut QA overhead by **90%**.
+- 🚀 **Performance:** Optimized API load times by **50%** and built infrastructure for **5k+ users**.
+- 👥 **Growth:** Designed UI components that led to a **25% increase** in user engagement.
 
 ---
 
@@ -53,9 +53,9 @@ I am a **detail-oriented Software Engineer** with over 2 years of full-stack exp
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/vijay-bharvad-a44085210/) [cite: 2]
-- 📧 [Email Me](mailto:vijaybharvad0097@gmail.com) [cite: 2]
-- 🌐 [Personal Portfolio](https://vijaybharvad.netlify.app) [cite: 2]
+- 💼 [LinkedIn](https://www.linkedin.com/in/vijay-bharvad-a44085210/)
+- 📧 [Email Me](mailto:vijaybharvad0097@gmail.com)
+- 🌐 [Personal Portfolio](https://vijaybharvad.netlify.app)
 
 ---
 <p align="center">
