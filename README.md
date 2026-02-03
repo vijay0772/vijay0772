@@ -13,7 +13,7 @@ I am a **detail-oriented Software Engineer** with over 2 years of full-stack exp
 
 - 🛠️ **Currently Scaling:** Automating LLM evaluations and building core RESTful APIs at **Halluminate**.
 - 📈 **Impact Driven:** Reduced manual QA time by **90%** and doubled page speeds in past roles.
-- 💡 **Innovation:** 2x Hackathon winner for projects involving AI and real-time threat detection.
+- 💡 **Innovation:** 4x Hackathon winner for projects involving AI and real-time threat detection.
 
 ---
 
